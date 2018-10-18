@@ -1,7 +1,7 @@
 # awesome-angular
 :sparkling_heart: A list of awesome Angular (:two::heavy_plus_sign:) resources
 
-[<img src="https://raw.githubusercontent.com/DaanDeSmedt/awesome-angular/master/angular.svg" align="right" width="131" height="143">](https://github.com/DaanDeSmedt/awesome-angular)
+[<img src="https://raw.githubusercontent.com/DaanDeSmedt/awesome-angular/master/angular.svg?sanitize=true" align="right" width="131" height="143">](https://github.com/DaanDeSmedt/awesome-angular)
 
 ### Angular
 
