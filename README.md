@@ -3,7 +3,8 @@
 
 [<img src="https://raw.githubusercontent.com/DaanDeSmedt/awesome-angular/master/angular.svg?sanitize=true" align="right" width="131" height="143">](https://github.com/DaanDeSmedt/awesome-angular)
 
-### Angular
+
+# Angular
 
 > Angular is a platform that makes it easy to build applications with the web. Angular combines declarative templates, dependency injection, end to end tooling, and integrated best practices to solve development challenges. Angular empowers developers to build applications that live on the web, mobile, or the desktop.
 
@@ -32,6 +33,24 @@
 * [Twitter](https://twitter.com/angular)
 * [Events](https://angular.io/events)
 
+
+<br/>
+<br/>
+<br/>
+<br/>
+
+
+# Table of Contents
+- [UI Frameworks](#ui-frameworks)
+	- [Responsive](#responsive)
+    - [Mobile](#mobile)
+    - [Admin Panel](#admin-panels)
+
+
+<br/>
+<br/>
+<br/>
+<br/>
 
 
 # UI Frameworks
