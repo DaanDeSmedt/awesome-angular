@@ -53,11 +53,19 @@
  - [md2](https://github.com/Promact/md2) - Angular2 based Material Design components, directives and services are Accordion, Autocomplete, Collapse, Colorpicker, Datepicker, Dialog(Modal), Menu, Multiselect, Select, Tabs, Tags(Chips), Toast and Tooltip.
  - [devextreme-angular](https://github.com/DevExpress/devextreme-angular) - Angular 2 UI and visualization components based on DevExtreme widgets.
  - [ng-zorro-antd](https://github.com/NG-ZORRO/ng-zorro-antd) - An enterprise-class UI components based on Ant Design and Angular.
- - [coreui](https://github.com/coreui/coreui-free-angular-admin-template) -  CoreUI Angular is free Angular 2+ admin template based on Bootstrap 4.
 
-  - 💰 [kendo-ui](https://www.telerik.com/kendo-angular-ui) -  Kendo UI for Angular. Professional Grade Angular UI Components.
+ - 💰 [kendo-ui](https://www.telerik.com/kendo-angular-ui) -  Kendo UI for Angular. Professional Grade Angular UI Components.
 
  
  ### Mobile
  - [ionic2](https://github.com/driftyco/ionic) - Build amazing native and progressive web apps with Angular and open web technologies. One app running on everything.
  - [angular2-onsenui](https://github.com/onsenui/onsenui) - Mobile app development framework and SDK using HTML5 and JavaScript. Create beautiful and performant cross-platform mobile apps. Based on Web Components, and provides bindings for Angular 1, 2, React and Vue.js.
+ 
+ ### Admin panels
+ - [coreui](https://github.com/coreui/coreui-free-angular-admin-template) -  CoreUI Angular is free Angular 2+ admin template based on Bootstrap 4.
+ - [ngx-admin](https://github.com/akveo/ngx-admin) - Admin template based on Nebular framework (Angular 4+, Bootstrap 4+).
+ - [Material Dashboard Angular 4](https://github.com/creativetimofficial/material-dashboard-angular2) - Material Dashboard Angular is a free Material Bootstrap Admin.
+ - [ng-pi-admin](https://github.com/BKnds/ng-pi-admin) - Angular admin.
+ - [ng-dashboard](https://github.com/ddvkid/ng-dashboard) - Angular admin dashboard framework.
+ - [cdk-admin](https://github.com/codetok/cdk-admin) - Angular 6 admin panel using angular material & angular flex.
+ - [PaperAdmin](https://github.com/mohdrashid/PaperAdmin) - A flat admin dashboard using Angular 2/4.
