@@ -132,7 +132,7 @@
 - [ng2-toastr](https://github.com/PointInside/ng2-toastr) - Bootstrap style toast for modern Angular.
 
 ###### Table
-*Table / Data Grid *
+*Table / Data Grid*
 - [@swimlane/ngx-datatable](https://github.com/swimlane/ngx-datatable) - A feature-rich yet lightweight data-table crafted for Angular2 and beyond.
 - [ng2-table](https://github.com/valor-software/ng2-table) - Simple table extension with sorting, filtering, paging... for Angular2 apps.
 - [angular2-datatable](https://github.com/mariuszfoltak/angular2-datatable) - DataTable - Simple table component with sorting and pagination for Angular2.
