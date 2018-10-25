@@ -1,7 +1,7 @@
 # awesome-angular
-:sparkling_heart: A list of awesome Angular (:two::heavy_plus_sign:) resources
-
 [<img src="https://raw.githubusercontent.com/DaanDeSmedt/awesome-angular/master/angular.svg?sanitize=true" align="right" width="131" height="143">](https://github.com/DaanDeSmedt/awesome-angular)
+
+:sparkling_heart: A list of awesome Angular (:two::heavy_plus_sign:) resources
 
 <br/>
 <br/>
@@ -36,8 +36,6 @@
 
 <br/>
 <br/>
-<br/>
-<br/>
 
 
 # Table of Contents
@@ -45,10 +43,9 @@
 	- [Responsive](#responsive)
     - [Mobile](#mobile)
     - [Admin Panel](#admin-panels)
+- [UI Components](#ui-components)
+    - [Overlay](#overlay)
 
-
-<br/>
-<br/>
 <br/>
 <br/>
 
@@ -73,7 +70,6 @@
 - [devextreme-angular](https://github.com/DevExpress/devextreme-angular) - Angular 2 UI and visualization components based on DevExtreme widgets.
 - [ng-zorro-antd](https://github.com/NG-ZORRO/ng-zorro-antd) - An enterprise-class UI components based on Ant Design and Angular.
 - 💰 [kendo-ui](https://www.telerik.com/kendo-angular-ui) -  Kendo UI for Angular. Professional Grade Angular UI Components.
-
  
 ### Mobile
 - [ionic2](https://github.com/driftyco/ionic) - Build amazing native and progressive web apps with Angular and open web technologies. One app running on everything.
@@ -87,3 +83,18 @@
 - [ng-dashboard](https://github.com/ddvkid/ng-dashboard) - Angular admin dashboard framework.
 - [cdk-admin](https://github.com/codetok/cdk-admin) - Angular 6 admin panel using angular material & angular flex.
 - [PaperAdmin](https://github.com/mohdrashid/PaperAdmin) - A flat admin dashboard using Angular 2/4.
+
+
+
+# UI Components
+###### Overlay
+*Overlay / modal / alert / dialog / lightbox / popup*
+
+- [ng2-ui-overlay](https://github.com/ng2-ui/overlay) - General Solution For Angular2 Overlay Elements.
+- [angular2-modal](https://github.com/shlomiassaf/angular2-modal) - Angular2 Modal / Dialog window.
+- [ng2-bs3-modal](https://github.com/dougludlow/ng2-bs3-modal) - Angular2 Bootstrap3 Modal Component.
+- [ngx-modal](https://github.com/pleerock/ngx-modal) - Open modal window (dialog box) for your angular2 applications using bootstrap3.
+- [ngx-gallery](https://github.com/MurhafSousli/ngx-gallery) - Angular Gallery, Carousel and Lightbox.
+- [angular2-lightbox](https://github.com/themyth92/angular2-lightbox) - Lightbox2 port to use with angular2.
+- [ng2-alert-center](https://github.com/zsfarkas/ng2-alert-center) - A small angular2 module for centralized application bootstrap alerts.
+- [ng2-ui-popup](https://github.com/ng2-ui/popup) - Angular2 Modal Directive 
