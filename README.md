@@ -45,7 +45,10 @@
     - [Admin Panel](#admin-panels)
 - [UI Components](#ui-components)
     - [Overlay](#overlay)
-
+	- [Lightbox](#lightbox)
+	- [Tooltip](#tooltip)
+	- [Popover](#popover)
+	- [Notification](#notification)
 <br/>
 <br/>
 
@@ -85,16 +88,42 @@
 - [PaperAdmin](https://github.com/mohdrashid/PaperAdmin) - A flat admin dashboard using Angular 2/4.
 
 
+<br/>
+<br/>
 
 # UI Components
-###### Overlay
-*Overlay / modal / alert / dialog / lightbox / popup*
 
+###### Overlay
+*Overlay / modal / popup*
 - [ng2-ui-overlay](https://github.com/ng2-ui/overlay) - General Solution For Angular2 Overlay Elements.
 - [angular2-modal](https://github.com/shlomiassaf/angular2-modal) - Angular2 Modal / Dialog window.
 - [ng2-bs3-modal](https://github.com/dougludlow/ng2-bs3-modal) - Angular2 Bootstrap3 Modal Component.
 - [ngx-modal](https://github.com/pleerock/ngx-modal) - Open modal window (dialog box) for your angular2 applications using bootstrap3.
+- [ng2-ui-popup](https://github.com/ng2-ui/popup) - Angular2 Modal Directive 
+
+###### Lightbox
 - [ngx-gallery](https://github.com/MurhafSousli/ngx-gallery) - Angular Gallery, Carousel and Lightbox.
 - [angular2-lightbox](https://github.com/themyth92/angular2-lightbox) - Lightbox2 port to use with angular2.
 - [ng2-alert-center](https://github.com/zsfarkas/ng2-alert-center) - A small angular2 module for centralized application bootstrap alerts.
-- [ng2-ui-popup](https://github.com/ng2-ui/popup) - Angular2 Modal Directive 
+
+###### Tooltip
+- [ng2-tooltip-directive](https://github.com/drozhzhin-n-e/ng2-tooltip-directive) - Tooltip for Angular
+- [ng2-ui-tooltip](https://github.com/ng2-ui/tooltip) - Angular2 Tooltip Directive
+- [ngx-tooltip](https://github.com/pleerock/ngx-tooltip) - Simple tooltip control for your angular2 applications using bootstrap3. Does not depend of jquery.
+- [ngx-popper](https://github.com/MrFrankel/ngx-popper) - An angular wrapper for popper.js, great for tooltips and positioning popping elements
+
+###### Popover
+- [angular-confirmation-popover](https://github.com/mattlewis92/angular-confirmation-popover) - Displays a bootstrap confirmation popover (with no jQuery or bootstrap JS!).
+- [ngx-popover](https://github.com/pleerock/ngx-popover) - Simple popover control for your angular2 applications using bootstrap3. Does not depend of jquery.
+
+###### Notification
+*Toaster / snackbar*
+- [ng-snotify](https://github.com/artemsky/ng-snotify) - Angular 2+ Notification Center.
+- [angular2-notifications](https://github.com/flauc/angular2-notifications) - A light and easy to use notifications library for Angular 2.
+- [angular2-toaster](https://github.com/stabzs/Angular2-Toaster) - Angular2-toaster is an asynchronous, non-blocking Angular2 Toaster Notification library.
+- [ng2-toasty](https://github.com/akserg/ng2-toasty) - Angular2 Toasty component shows growl-style alerts and messages for your app.
+- [ng2-notifications](https://github.com/alexcastillo/ng2-notifications) - Angular 2 Component for Native Push Notifications.
+- [ngx-toastr](https://github.com/scttcper/ngx-toastr) - Angular 2 toastr.
+- [@ngrx/notify](https://github.com/ngrx/notify) - Web Notifications Powered by RxJS for Angular.
+- [angular-notifier](https://github.com/dominique-mueller/angular-notifier) - A well designed, fully animated, highly customizable, and easy-to-use notification library for your Angular 2+ application.
+- [ng2-toastr](https://github.com/PointInside/ng2-toastr) - Bootstrap style toast for modern Angular.
