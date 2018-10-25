@@ -49,6 +49,8 @@
 	- [Tooltip](#tooltip)
 	- [Popover](#popover)
 	- [Notification](#notification)
+	- [Table](#table)
+	- [Tree](#tree)
 <br/>
 <br/>
 
@@ -72,6 +74,7 @@
 - [md2](https://github.com/Promact/md2) - Angular2 based Material Design components, directives and services are Accordion, Autocomplete, Collapse, Colorpicker, Datepicker, Dialog(Modal), Menu, Multiselect, Select, Tabs, Tags(Chips), Toast and Tooltip.
 - [devextreme-angular](https://github.com/DevExpress/devextreme-angular) - Angular 2 UI and visualization components based on DevExtreme widgets.
 - [ng-zorro-antd](https://github.com/NG-ZORRO/ng-zorro-antd) - An enterprise-class UI components based on Ant Design and Angular.
+- [jQWidgets](https://github.com/jqwidgets/jQWidgets) - Vue, Angular, React, jQuery and ASP .NET Core UI Framework
 - 💰 [kendo-ui](https://www.telerik.com/kendo-angular-ui) -  Kendo UI for Angular. Professional Grade Angular UI Components.
  
 ### Mobile
@@ -127,3 +130,22 @@
 - [@ngrx/notify](https://github.com/ngrx/notify) - Web Notifications Powered by RxJS for Angular.
 - [angular-notifier](https://github.com/dominique-mueller/angular-notifier) - A well designed, fully animated, highly customizable, and easy-to-use notification library for your Angular 2+ application.
 - [ng2-toastr](https://github.com/PointInside/ng2-toastr) - Bootstrap style toast for modern Angular.
+
+###### Table
+*Table / Data Grid *
+- [@swimlane/ngx-datatable](https://github.com/swimlane/ngx-datatable) - A feature-rich yet lightweight data-table crafted for Angular2 and beyond.
+- [ng2-table](https://github.com/valor-software/ng2-table) - Simple table extension with sorting, filtering, paging... for Angular2 apps.
+- [angular2-datatable](https://github.com/mariuszfoltak/angular2-datatable) - DataTable - Simple table component with sorting and pagination for Angular2.
+- [ng2-easy-table](https://github.com/ssuperczynski/ng2-easy-table) - The easiest Angular2 table.
+- [ng2-handsontable](https://github.com/valor-software/ng2-handsontable) - Angular 2 directive for Handsontable.
+- [ag-grid-angular](https://github.com/ceolter/ag-grid-angular) - Ag-Grid Angular 2 Component.
+- [ng2-smart-table](https://github.com/akveo/ng2-smart-table) - Angular 2 Smart Data Table component.
+- [angular2-datagrid](https://github.com/jmvtrinidad/angular2-datagrid) - Datagrid for angular 2.
+- [NG2TableView](https://github.com/dennis-b/NG2TableView) - ng2 table-view with angular material
+- [ngx-super-table](https://github.com/andyperlitch/ngx-super-table) - A feature-rich table component built with angular.
+
+###### Tree
+- [angular2-tree-component](https://github.com/500tech/angular2-tree-component) - A simple yet powerful tree component for Angular2.
+- [ng2-tree](https://github.com/valor-software/ng2-tree) - Angular2 component for visualizing data that can be naturally represented as a tree.
+- [ngx-treeview](https://github.com/leovo2708/ngx-treeview) - An Angular treeview component with checkbox
+- [ng.tree](https://github.com/1inus/ng.tree) - Ng Tree for angular4
