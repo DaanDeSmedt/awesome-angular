@@ -59,6 +59,7 @@
     - [Menu](#menu)
     - [ContextMenu](#contextmenu)
     - [Charts](#charts)
+    - [Markdown / Editors](#markdown--editors)
 <br/>
 <br/>
 
@@ -71,6 +72,9 @@
 - [angular-split](https://github.com/bertrandg/angular-split) - Angular (2+) UI library to split views.
 - [ng2-fullpage](https://github.com/meiblorn/ng2-fullpage) - Angular 2 fullpage scrolling.
 - [ngresizable](https://github.com/mgechev/ngresizable) - Simple, tree-shakable, AoT, Universal and Web Worker friendly resizable component for Angular
+- [ng-golden-layout](https://github.com/goldsam/ng-golden-layout) - Angular bindings for golden-layout ; A multi window layout manager for webapps.
+- [ng6-golden-layout](https://github.com/EmbeddedEnterprises/ng6-golden-layout) - Golden-Layout binding for Angular 6
+- [ngx-masonry](https://github.com/gethinoakes/ngx-masonry) - Angular Module for displaying a feed of items in a masonry layout.
 
 ### Icons
 - [ng-svg-icon-sprite](https://github.com/jannicz/ng-svg-icon-sprite) - Angular 6 package for generating and using inline SVG icons in your project.
@@ -105,8 +109,13 @@
 - [devextreme-angular](https://github.com/DevExpress/devextreme-angular) - Angular 2 UI and visualization components based on DevExtreme widgets.
 - [ng-zorro-antd](https://github.com/NG-ZORRO/ng-zorro-antd) - An enterprise-class UI components based on Ant Design and Angular.
 - [jQWidgets](https://github.com/jqwidgets/jQWidgets) - Vue, Angular, React, jQuery and ASP .NET Core UI Framework
-- [Angular MetaMagic EXtensions](https://github.com/meta-magic/amexio.github.io) - Acronym for Angular MetaMagic EXtensions for Inputs & Outputs. It is a rich set of Angular 6 (120+) components powered by HTML5 & CSS3 for Responsive Design and with 50+ Material Design Themes, UI Components, Charts, Gauges, Data Point Widgets, Dashboads..
+- [Angular MetaMagic EXtensions](https://github.com/meta-magic/amexio.github.io) - Acronym for Angular MetaMagic EXtensions for Inputs & Outputs. It is a rich set of Angular 6 (120+) components powered by HTML5 & CSS3 for Responsive Design and with 50+ Material Design Themes, UI Components, Charts, Gauges, Data Point Widgets, Dashboads.
+- [src-zone/material](https://github.com/src-zone/material) - Blox Material makes it possible to create beautiful Angular apps with modular and customizable UI components, designed according to the Material Design Guidelines.
+- [ng-sq-ui](https://github.com/SQ-UI/ng-sq-ui) - Flexible and easily customizable UI-kit for Angular 6+
+- [truly-ui](https://github.com/TemainfoSoftware/truly-ui) - Truly-UI - WebComponents for Desktop Applications.
 - 💰 [kendo-ui](https://www.telerik.com/kendo-angular-ui) -  Kendo UI for Angular. Professional Grade Angular UI Components.
+- 💰 [syncfusion-angular-ui](https://www.syncfusion.com/angular-ui-components) -  The Complete Angular UI Components Library.
+- 💰 [wijmo-core](https://www.grapecity.com/en/wijmo-core) -  Deliver next-generation HTML5 applications with Wijmo Core, a collection of true JavaScript controls written in TypeScript and built for speed.
  
 ### Mobile
 - [ionic2](https://github.com/driftyco/ionic) - Build amazing native and progressive web apps with Angular and open web technologies. One app running on everything.
@@ -227,3 +236,21 @@
 - [ng2-nvd3](https://github.com/krispo/ng2-nvd3) - Angular2 component for nvd3.
 - [angular-google-charts](https://github.com/FERNman/angular-google-charts) - An Angular 6 implementation of the Google Charts library.
 - 💰 [angular-fusioncharts](https://github.com/fusioncharts/angular-fusioncharts) - Angular Component for FusionCharts JavaScript Charting Library.
+
+###### Markdown / Editors
+*Markdown / Showdown / Editor*
+- [ngx-md](https://github.com/dimpu/ngx-md) - Angular(ngx) directive for parsing markdown content in your web application.
+- [ngx-markdown](https://github.com/jfcere/ngx-markdown) - Angular markdown component/directive/pipe/service to parse static, dynamic or remote content to html with syntax highlight.
+- [ng2-markdown](https://github.com/evanplaice/ng2-markdown) - Angular2 Markdown Web Component.
+- [ngx-showdown](https://github.com/yisraelx/ngx-showdown) - Angular X Showdown Module.
+- [ng2-simplemde](https://github.com/doxiaodong/ng2-simplemde) - angular2 component for Simplemde Markdown Editor.
+- [covalent-text-editor](https://github.com/Teradata/covalent-text-editor) - Covalent text and markdown editor component for Angular based on SimpleMDE.
+- [ng2-ace](https://github.com/seiyria/ng2-ace) - A basic ace editor directive for angular 2.
+- [ngx-inline-editor](https://github.com/qontu/ngx-inline-editor) - Native UI Inline-editor Angular (4.0+) component.
+- [ngx-quill](https://github.com/KillerCodeMonkey/ngx-quill) - quill editor with angular and TS.
+- [ngx-quill-editor](https://github.com/surmon-china/ngx-quill-editor) - @quilljs editor component for @angular.
+- [ngx-monaco-editor](https://github.com/atularen/ngx-monaco-editor) - Monaco Editor component for Angular 2 and Above.
+- [covalent-code-editor](https://github.com/Teradata/covalent-code-editor) - Covalent text and code editor component for Angular based on Monaco Editor.
+- [ngx-wig](https://github.com/stevermeister/ngx-wig) - Angular(Angular 5, Angular 6) WYSIWYG HTML Rich Text Editor.
+- [angular2-tinymce](https://github.com/Ledzz/angular2-tinymce) - Angular 2 component for TinyMCE MCE WYSIWYG editor.
+- [angular-simditor](https://github.com/ghostboyzone/angular-simditor) - Angular Editor for Simditor .
