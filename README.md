@@ -60,6 +60,7 @@
     - [ContextMenu](#contextmenu)
     - [Charts](#charts)
     - [Markdown / Editors](#markdown--editors)
+    - [Map](#map)
 <br/>
 <br/>
 
@@ -238,7 +239,7 @@
 - 💰 [angular-fusioncharts](https://github.com/fusioncharts/angular-fusioncharts) - Angular Component for FusionCharts JavaScript Charting Library.
 
 ###### Markdown / Editors
-*Markdown / Showdown / Editor*
+*Markdown / Showdown / Editor / WYSIWYG*
 - [ngx-md](https://github.com/dimpu/ngx-md) - Angular(ngx) directive for parsing markdown content in your web application.
 - [ngx-markdown](https://github.com/jfcere/ngx-markdown) - Angular markdown component/directive/pipe/service to parse static, dynamic or remote content to html with syntax highlight.
 - [ng2-markdown](https://github.com/evanplaice/ng2-markdown) - Angular2 Markdown Web Component.
@@ -254,3 +255,18 @@
 - [ngx-wig](https://github.com/stevermeister/ngx-wig) - Angular(Angular 5, Angular 6) WYSIWYG HTML Rich Text Editor.
 - [angular2-tinymce](https://github.com/Ledzz/angular2-tinymce) - Angular 2 component for TinyMCE MCE WYSIWYG editor.
 - [angular-simditor](https://github.com/ghostboyzone/angular-simditor) - Angular Editor for Simditor .
+
+###### Map
+- [angular2-google-maps](https://github.com/SebastianM/angular2-google-maps) - Angular 2+ Google Maps Components.
+- [ng2-map](https://github.com/ng2-ui/ng2-map) - Angular2 Google Maps Directives.
+- [angular-maps](https://github.com/infusion-code/angular-maps) - Angular Maps (X-Map) is a set of components and services to provide map functionality in angular 2+ apps.
+- [ng-ui-map](https://github.com/ng2-ui/map) - Angular Google Maps Directives.
+- [angular2-esri4-components](https://github.com/kgs916/angular2-esri4-components) - A set of Angular 2 components to work with ArcGIS API for JavaScript v4.1.
+- [angular-esri-map](https://github.com/Esri/angular-esri-map) - A collection of directives to help you use Esri maps and services in your Angular applications.
+- [angular-cesium](https://github.com/TGFTech/angular-cesium) - JavaScript library for creating map based web apps using Cesium and Angular.
+- [angular2-baidu-map](https://github.com/leftstick/angular2-baidu-map) - Angular2 component for Baidu map.
+- [angular2-mapbox](https://github.com/kuflink/angular2-mapbox) - Angular 2 components for mapbox-gl.
+- [ngx-mapbox-gl](https://github.com/Wykks/ngx-mapbox-gl) - Angular binding of mapbox-gl-js.
+- [ngx-mapboxgl-starter](https://github.com/haoliangyu/ngx-mapboxgl-starter) - A recipe of Angular and MapboxGL. 
+- [ngx-amap](https://github.com/xieziyu/ngx-amap) - Angular 2+ component for AMap (Gaode map) .
+- [mangol](https://github.com/fegyi001/mangol) - Maps created with Angular & OpenLayers using Material design.
