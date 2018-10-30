@@ -1,7 +1,8 @@
-# awesome-angular
+# Awsome Angular 2+ list
 [<img src="https://raw.githubusercontent.com/DaanDeSmedt/awesome-angular/master/angular.svg?sanitize=true" align="right" width="131" height="143">](https://github.com/DaanDeSmedt/awesome-angular)
 
-:sparkling_heart: A list of awesome Angular (:two::heavy_plus_sign:) resources
+A curated list of amazingly Angular 2+ components, libraries, resources and shiny things.
+
 
 <br/>
 <br/>
@@ -61,6 +62,8 @@
     - [Charts](#charts)
     - [Markdown / Editors](#markdown--editors)
     - [Map](#map)
+    - [Audio / Video](#audio--video)
+    - [SVG](#svg)
 <br/>
 <br/>
 
@@ -270,3 +273,19 @@
 - [ngx-mapboxgl-starter](https://github.com/haoliangyu/ngx-mapboxgl-starter) - A recipe of Angular and MapboxGL. 
 - [ngx-amap](https://github.com/xieziyu/ngx-amap) - Angular 2+ component for AMap (Gaode map) .
 - [mangol](https://github.com/fegyi001/mangol) - Maps created with Angular & OpenLayers using Material design.
+
+###### Audio / Video
+- [videogular2](https://github.com/videogular/videogular2) - The HTML5 video player for Angular 2.
+- [audioScope-ng2](https://github.com/jonathandturner/AudioScope-ng2) - AudioScope demo written in Angular 2 + TypeScript.
+- [angular-audio-context](https://github.com/chrisguttandin/angular-audio-context) - An Angular wrapper for the Web Audio API's AudioContext.
+- [tone-lab](https://github.com/tone-lab/tone-lab) - Playing around with Web Audio and Angular 4.
+- [ngx-embed-video](https://github.com/SamirHodzic/ngx-embed-video) - Get embed code for embedding youtube/vimeo/dailymotion/* video in websites from URL or ID in Angular 4.
+- [echoes-player](https://github.com/orizens/echoes-player) - Echoes Player: the missing Media Player experience for Youtube - Built with Angular.
+- [ngx-youtube-player](https://github.com/orizens/ngx-youtube-player) - (ngx) A youtube component wrapped with Angular (typescript).
+- [web](https://github.com/Cloud-Player/web) - Angular6 music player to search and play YouTube, SoundCloud and Mixcloud tracks .
+- [alltomp3-app](https://github.com/AllToMP3/alltomp3-app) - Desktop application to download YouTube, SoundCloud & Spotify in MP3 with full tags.
+
+###### SVG
+- [ng-inline-svg](https://github.com/arkon/ng-inline-svg) - Angular 2+ directive for inserting an SVG file inline within an element.
+- [angular-svg-icon](https://github.com/czeckd/angular-svg-icon) - Angular 6+ component for inlining SVGs allowing them to be easily styled with CSS.
+- [shapeshifter](https://github.com/alexjlockwood/ShapeShifter) - SVG icon animation tool for Android, iOS, and the web.
