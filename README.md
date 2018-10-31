@@ -40,6 +40,7 @@ A curated list of amazingly Angular 2+ components, libraries, resources and shin
 
 
 # Table of Contents
+- [Documentation generators](#documentation-generators)
 - [UI Layout](#ui-layout)
     - [Structure](#structure)
     - [Icons](#icons)
@@ -68,6 +69,10 @@ A curated list of amazingly Angular 2+ components, libraries, resources and shin
 <br/>
 <br/>
 
+
+# Documentation generators
+- [compodoc](https://github.com/compodoc/compodoc) - The missing documentation tool for your Angular application.
+- [AngularDoc](https://angulardoc.io/) - Architectural analysis and visualization for Angular 2 projects.
 
 # UI Layout
  
