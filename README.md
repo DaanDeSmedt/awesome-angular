@@ -48,7 +48,6 @@ A curated list of amazingly Angular 2+ components, libraries, resources and shin
 	- [Responsive](#responsive)
     - [Mobile](#mobile)
     - [Admin Panel](#admin-panels)
-- [Boilerplates](#boilerplates)
 - [UI Components](#ui-components)
     - [Overlay](#overlay)
 	- [Lightbox](#lightbox)
@@ -136,22 +135,6 @@ A curated list of amazingly Angular 2+ components, libraries, resources and shin
 - [cdk-admin](https://github.com/codetok/cdk-admin) - Angular 6 admin panel using angular material & angular flex.
 - [PaperAdmin](https://github.com/mohdrashid/PaperAdmin) - A flat admin dashboard using Angular 2/4.
 - [Reboard](https://github.com/thesquaredev/reboard) - Admin dashboard template based on Angular 4+, Angular Material 2 and ngx-charts.
-
-<br/>
-<br/>
-
-# Boilerplates
-- [Angular CLI](https://github.com/angular/angular-cli) - CLI tool for Angular.
-- [ngx-rocket](https://github.com/ngx-rocket/starter-kit) - Angular 7+ starter kit for enterprise-grade projects.
-- [ng2-play](https://github.com/pkozlowski-opensource/ng2-play) - A minimal Angular2 playground using TypeScript and SystemJS loader.
-- [ng2-lab](https://github.com/rolandjitsu/ng2-lab) - Angular Lab.
-- [babel-angular2-app](https://github.com/shuhei/babel-angular2-app) - A super-simple skeleton Angular 2 app built with Babel and Browserify.
-- [angular-starter](https://github.com/gdi2290/angular-starter) - An Angular Starter kit featuring Angular (Router, Http, Forms, Services, Tests, E2E, Dev/Prod, HMR, Async/Lazy Routes, AoT via ngc), Karma, Protractor, Jasmine, Istanbul, TypeScript, TsLint, Codelyzer, Hot Module Replacement, @types, and Webpack by @tipeio.
-- [learn-angular](https://github.com/panacloud/learn-angular) - Learn Angular 4 in Baby Steps.
-- [angular-seed](https://github.com/mgechev/angular-seed) - Extensible, reliable, modular, PWA ready starter project for Angular (2 and beyond) with statically typed build and AoT compilation.
-- [angular2-minimalist-starter](https://github.com/rogerpadilla/angular2-minimalist-starter) - Angular2 Minimalist Starter.
-- [angular-starter](https://github.com/antonybudianto/angular-starter) - Gulp Angular Starter using TypeScript (Updated to 4.4.3).
-- [angular2-boilerplate](https://github.com/voxmachina/angular2-boilerplate) - An Angular 2+ boilerplate on steroids that achieves 100 top score on Google Page Speed.
 
 <br/>
 <br/>
