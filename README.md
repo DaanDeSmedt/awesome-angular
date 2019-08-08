@@ -20,7 +20,18 @@ A curated list of amazingly Angular 2+ components, libraries, resources and shin
 
 ##### Current Browser support for Angular
 
-[![Angular browser support](https://saucelabs.com/browser-matrix/angular2-ci.svg)](https://saucelabs.com/u/angular2-ci)
+| Browser  | Support versions |
+| ------------- | ------------- |
+| Chrome  | latest  |
+| Firefox | latest  |
+| Edge | 2 most recent major versions |
+| IE | 11, 10, 9 |
+| IE Mobile | 11 |
+| Safari | 2 most recent major versions |
+| iOS | 2 most recent major versions |
+| Android | Nougat (7.0), Marshmallow (6.0), Lollipop (5.0, 5.1), KitKat (4.4)  |
+
+[Browser support](https://angular.io/guide/browser-support)
 
 
 ##### Official Resources
@@ -29,6 +40,7 @@ A curated list of amazingly Angular 2+ components, libraries, resources and shin
 - [Blog](https://blog.angular.io)
 - [Documentation](https://angular.io/docs)
 - [Cheatsheet](https://angular.io/guide/cheatsheet)
+- [Styleguide](https://angular.io/guide/styleguide)
 - [Getting Started Guide](https://angular.io/guide/quickstart)
 - [Resources](https://angular.io/resources)
 - [Twitter](https://twitter.com/angular)
@@ -40,32 +52,40 @@ A curated list of amazingly Angular 2+ components, libraries, resources and shin
 
 
 # Table of Contents
+- [Awsome Angular 2+ list](#awsome-angular-2-list)
+- [Angular](#angular)
+	- [Current Angular version](#current-angular-version)
+	- [Current Browser support for Angular](#current-browser-support-for-angular)
+	- [Official Resources](#official-resources)
+- [Table of Contents](#table-of-contents)
 - [Documentation generators](#documentation-generators)
-- [Boilerplates](#boilerplates)
+- [Boilerplates / Seeds](#boilerplates--seeds)
 - [UI Layout](#ui-layout)
     - [Structure](#structure)
     - [Icons](#icons)
     - [Emoji](#emoji)
 - [UI Frameworks](#ui-frameworks)
-	- [Responsive](#responsive)
+    - [Responsive](#responsive)
     - [Mobile](#mobile)
-    - [Admin Panel](#admin-panels)
+    - [Admin panels](#admin-panels)
 - [UI Components](#ui-components)
-    - [Overlay](#overlay)
+	- [Overlay](#overlay)
 	- [Lightbox](#lightbox)
 	- [Tooltip](#tooltip)
 	- [Popover](#popover)
 	- [Notification](#notification)
 	- [Table](#table)
 	- [Tree](#tree)
-    - [Loading / Progress Indicators](#loading--progress-indicators)
-    - [Menu](#menu)
-    - [ContextMenu](#contextmenu)
-    - [Charts](#charts)
-    - [Markdown / Editors](#markdown--editors)
-    - [Map](#map)
-    - [Audio / Video](#audio--video)
-    - [SVG](#svg)
+	- [Loading / Progress Indicators](#loading--progress-indicators)
+	- [Menu](#menu)
+	- [ContextMenu](#contextmenu)
+	- [Charts](#charts)
+	- [Markdown / Editors](#markdown--editors)
+	- [Map](#map)
+	- [Audio / Video](#audio--video)
+	- [SVG](#svg)
+	- [Virtual scroll](#virtual-scroll)
+	- [Infinite scroll](#infinite-scroll)
 <br/>
 <br/>
 
@@ -73,11 +93,12 @@ A curated list of amazingly Angular 2+ components, libraries, resources and shin
 # Documentation generators
 - [compodoc](https://github.com/compodoc/compodoc) - The missing documentation tool for your Angular application.
 - [AngularDoc](https://angulardoc.io/) - Architectural analysis and visualization for Angular 2 projects.
-
+- [Storybook](https://github.com/storybookjs/storybook) - Storybook is a development environment for UI components. It allows you to browse a component library, view the different states of each component, and interactively develop and test components.
+ 
 <br/>
 <br/>
 
-# Boilerplates
+# Boilerplates / Seeds
 - [Angular CLI](https://github.com/angular/angular-cli) - CLI tool for Angular.
 - [ngx-rocket](https://github.com/ngx-rocket/starter-kit) - Angular 7+ starter kit for enterprise-grade projects.
 - [ng2-play](https://github.com/pkozlowski-opensource/ng2-play) - A minimal Angular2 playground using TypeScript and SystemJS loader.
@@ -89,6 +110,8 @@ A curated list of amazingly Angular 2+ components, libraries, resources and shin
 - [angular2-minimalist-starter](https://github.com/rogerpadilla/angular2-minimalist-starter) - Angular2 Minimalist Starter.
 - [angular-starter](https://github.com/antonybudianto/angular-starter) - Gulp Angular Starter using TypeScript (Updated to 4.4.3).
 - [angular2-boilerplate](https://github.com/voxmachina/angular2-boilerplate) - An Angular 2+ boilerplate on steroids that achieves 100 top score on Google Page Speed.
+- [angular2-seed](https://github.com/angular/angular2-seed) - A simple starter project demonstrating the basic concepts of Angular 2.
+- [@ng-seed/universal](https://github.com/ng-seed/universal) - A seed project for Angular Universal apps following the common patterns and best practices in file and application organization.
 
 <br/>
 <br/>
@@ -96,7 +119,7 @@ A curated list of amazingly Angular 2+ components, libraries, resources and shin
 # UI Layout
  
 ### Structure
-- [@angular/flex-layout](https://github.com/angular/flex-layout)
+- [@angular/flex-layout](https://github.com/angular/flex-layout) - Provides HTML UI layout for Angular applications; using Flexbox and a Responsive API.
 - [angular2-grid](https://github.com/BTMorton/angular2-grid) - A grid-based drag/drop/resize directive plugin for Angular 2.
 - [angular-split](https://github.com/bertrandg/angular-split) - Angular (2+) UI library to split views.
 - [ng2-fullpage](https://github.com/meiblorn/ng2-fullpage) - Angular 2 fullpage scrolling.
@@ -116,6 +139,9 @@ A curated list of amazingly Angular 2+ components, libraries, resources and shin
 - [ng-emoji-picker](https://github.com/lbertenasco/ng-emoji-picker) - Angular 4 Emoji Picker.
 - [angular-emojione](https://github.com/jbw91/angular-emojione) - EmojiOne for Angular.
 - [ng2-emojis](https://github.com/paramsinghvc/ng2-emojis) - An Angular 2 plugin for emojis support for text inputs and textareas.
+
+<br/>
+<br/>
 
 # UI Frameworks
  
@@ -313,3 +339,11 @@ A curated list of amazingly Angular 2+ components, libraries, resources and shin
 - [ng-inline-svg](https://github.com/arkon/ng-inline-svg) - Angular 2+ directive for inserting an SVG file inline within an element.
 - [angular-svg-icon](https://github.com/czeckd/angular-svg-icon) - Angular 6+ component for inlining SVGs allowing them to be easily styled with CSS.
 - [shapeshifter](https://github.com/alexjlockwood/ShapeShifter) - SVG icon animation tool for Android, iOS, and the web.
+
+###### Virtual scroll
+- [od-virtualscroll](https://github.com/dinony/od-virtualscroll) - Observable-based virtual scroll implementation in Angular .
+- [ngx-virtual-scroller](https://github.com/rintoj/ngx-virtual-scroller) - Virtual Scroll displays a virtual, "infinite" list.
+- [ngx-ui-scroll](https://github.com/dhilt/ngx-ui-scroll) - Infinite/virtual scroll for Angular.
+
+###### Infinite scroll
+- [ngx-infinite-scroll](https://github.com/orizens/ngx-infinite-scroll) - Infinite Scroll Directive for Angular.
