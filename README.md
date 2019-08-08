@@ -86,6 +86,8 @@ A curated list of amazingly Angular 2+ components, libraries, resources and shin
 	- [SVG](#svg)
 	- [Virtual scroll](#virtual-scroll)
 	- [Infinite scroll](#infinite-scroll)
+	- [Scrollbar](#scrollbar)
+	- [Drag and Drop](#drag--and--drop)
 <br/>
 <br/>
 
@@ -307,7 +309,7 @@ A curated list of amazingly Angular 2+ components, libraries, resources and shin
 - [covalent-code-editor](https://github.com/Teradata/covalent-code-editor) - Covalent text and code editor component for Angular based on Monaco Editor.
 - [ngx-wig](https://github.com/stevermeister/ngx-wig) - Angular(Angular 5, Angular 6) WYSIWYG HTML Rich Text Editor.
 - [angular2-tinymce](https://github.com/Ledzz/angular2-tinymce) - Angular 2 component for TinyMCE MCE WYSIWYG editor.
-- [angular-simditor](https://github.com/ghostboyzone/angular-simditor) - Angular Editor for Simditor .
+- [angular-simditor](https://github.com/ghostboyzone/angular-simditor) - Angular Editor for Simditor.
 
 ###### Map
 - [angular2-google-maps](https://github.com/SebastianM/angular2-google-maps) - Angular 2+ Google Maps Components.
@@ -334,6 +336,7 @@ A curated list of amazingly Angular 2+ components, libraries, resources and shin
 - [ngx-youtube-player](https://github.com/orizens/ngx-youtube-player) - (ngx) A youtube component wrapped with Angular (typescript).
 - [web](https://github.com/Cloud-Player/web) - Angular6 music player to search and play YouTube, SoundCloud and Mixcloud tracks .
 - [alltomp3-app](https://github.com/AllToMP3/alltomp3-app) - Desktop application to download YouTube, SoundCloud & Spotify in MP3 with full tags.
+- [ngx-audio-player](https://github.com/vmudigal/ngx-audio-player) - A library for loading playing audio using HTML 5 audio specifically for Angular 7.
 
 ###### SVG
 - [ng-inline-svg](https://github.com/arkon/ng-inline-svg) - Angular 2+ directive for inserting an SVG file inline within an element.
@@ -344,6 +347,17 @@ A curated list of amazingly Angular 2+ components, libraries, resources and shin
 - [od-virtualscroll](https://github.com/dinony/od-virtualscroll) - Observable-based virtual scroll implementation in Angular .
 - [ngx-virtual-scroller](https://github.com/rintoj/ngx-virtual-scroller) - Virtual Scroll displays a virtual, "infinite" list.
 - [ngx-ui-scroll](https://github.com/dhilt/ngx-ui-scroll) - Infinite/virtual scroll for Angular.
+- [@angular/cdk/scrolling](https://material.angular.io/cdk/scrolling/overview#virtual-scrolling) - CDK scrolling package provides helpers for directives that react to scroll events.
 
 ###### Infinite scroll
 - [ngx-infinite-scroll](https://github.com/orizens/ngx-infinite-scroll) - Infinite Scroll Directive for Angular.
+
+###### Scrollbar
+- [ngx-perfect-scrollbar](https://github.com/zefoy/ngx-perfect-scrollbar) - Angular wrapper library for the Perfect Scrollbar.
+- [ngx-malihu-scrollbar](https://github.com/jfcere/ngx-malihu-scrollbar) - Angular 2+ scrollbar customization using Malihu jQuery Custom Scrollbar plugin.
+
+###### Drag and Drop
+- [ng2-dragula](https://github.com/valor-software/ng2-dragula) - Simple drag and drop with dragula.
+- [ng2-dnd](https://github.com/akserg/ng2-dnd) - Angular 2 Drag-and-Drop without dependencies.
+- [ng-drag-drop](https://github.com/ObaidUrRehman/ng-drag-drop) - Drag & Drop for Angular - based on HTML5 with no external dependencies.
+- [ngx-sortablejs](https://github.com/SortableJS/ngx-sortablejs) - Angular 2+ binding to SortableJS. Previously known as angular-sortablejs.
