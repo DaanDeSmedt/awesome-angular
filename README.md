@@ -337,6 +337,7 @@ A curated list of amazingly Angular 2+ components, libraries, resources and shin
 - [web](https://github.com/Cloud-Player/web) - Angular6 music player to search and play YouTube, SoundCloud and Mixcloud tracks .
 - [alltomp3-app](https://github.com/AllToMP3/alltomp3-app) - Desktop application to download YouTube, SoundCloud & Spotify in MP3 with full tags.
 - [ngx-audio-player](https://github.com/vmudigal/ngx-audio-player) - A library for loading playing audio using HTML 5 audio specifically for Angular 7.
+- [ngx-plyr](https://github.com/smnbbrv/ngx-plyr) - Angular 6+ binding for Plyr video & audio player.
 
 ###### SVG
 - [ng-inline-svg](https://github.com/arkon/ng-inline-svg) - Angular 2+ directive for inserting an SVG file inline within an element.
