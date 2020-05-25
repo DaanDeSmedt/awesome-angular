@@ -362,3 +362,6 @@ A curated list of amazingly Angular 2+ components, libraries, resources and shin
 - [ng2-dnd](https://github.com/akserg/ng2-dnd) - Angular 2 Drag-and-Drop without dependencies.
 - [ng-drag-drop](https://github.com/ObaidUrRehman/ng-drag-drop) - Drag & Drop for Angular - based on HTML5 with no external dependencies.
 - [ngx-sortablejs](https://github.com/SortableJS/ngx-sortablejs) - Angular 2+ binding to SortableJS. Previously known as angular-sortablejs.
+
+# Other Libraries
+- [ng-google-sheets-db](https://github.com/FranzDiebold/ng-google-sheets-db-library) - :rocket: Use Google Sheets as your (read-only) backend!
