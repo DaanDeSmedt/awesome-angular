@@ -88,6 +88,7 @@ A curated list of amazingly Angular 2+ components, libraries, resources and shin
 	- [Infinite scroll](#infinite-scroll)
 	- [Scrollbar](#scrollbar)
 	- [Drag and Drop](#drag--and--drop)
+- [Other Libraries](#other-libraries)
 <br/>
 <br/>
 
