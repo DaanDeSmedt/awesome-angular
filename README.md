@@ -20,16 +20,16 @@ A curated list of amazingly Angular 2+ components, libraries, resources and shin
 
 ##### Current Browser support for Angular
 
-| Browser  | Support versions |
-| ------------- | ------------- |
-| Chrome  | latest  |
-| Firefox | latest  |
-| Edge | 2 most recent major versions |
-| IE | 11, 10, 9 |
-| IE Mobile | 11 |
-| Safari | 2 most recent major versions |
-| iOS | 2 most recent major versions |
-| Android | Nougat (7.0), Marshmallow (6.0), Lollipop (5.0, 5.1), KitKat (4.4)  |
+| Browser   | Support versions                                                   |
+|-----------|--------------------------------------------------------------------|
+| Chrome    | latest                                                             |
+| Firefox   | latest                                                             |
+| Edge      | 2 most recent major versions                                       |
+| IE        | 11, 10, 9                                                          |
+| IE Mobile | 11                                                                 |
+| Safari    | 2 most recent major versions                                       |
+| iOS       | 2 most recent major versions                                       |
+| Android   | Nougat (7.0), Marshmallow (6.0), Lollipop (5.0, 5.1), KitKat (4.4) |
 
 [Browser support](https://angular.io/guide/browser-support)
 
@@ -54,40 +54,44 @@ A curated list of amazingly Angular 2+ components, libraries, resources and shin
 # Table of Contents
 - [Awsome Angular 2+ list](#awsome-angular-2-list)
 - [Angular](#angular)
-	- [Current Angular version](#current-angular-version)
-	- [Current Browser support for Angular](#current-browser-support-for-angular)
-	- [Official Resources](#official-resources)
+				- [Current Angular version](#current-angular-version)
+				- [Current Browser support for Angular](#current-browser-support-for-angular)
+				- [Official Resources](#official-resources)
 - [Table of Contents](#table-of-contents)
 - [Documentation generators](#documentation-generators)
 - [Boilerplates / Seeds](#boilerplates--seeds)
 - [UI Layout](#ui-layout)
-    - [Structure](#structure)
-    - [Icons](#icons)
-    - [Emoji](#emoji)
+		- [Structure](#structure)
+		- [Icons](#icons)
+		- [Emoji](#emoji)
 - [UI Frameworks](#ui-frameworks)
-    - [Responsive](#responsive)
-    - [Mobile](#mobile)
-    - [Admin panels](#admin-panels)
+		- [Responsive](#responsive)
+		- [Mobile](#mobile)
+		- [Admin panels](#admin-panels)
 - [UI Components](#ui-components)
-	- [Overlay](#overlay)
-	- [Lightbox](#lightbox)
-	- [Tooltip](#tooltip)
-	- [Popover](#popover)
-	- [Notification](#notification)
-	- [Table](#table)
-	- [Tree](#tree)
-	- [Loading / Progress Indicators](#loading--progress-indicators)
-	- [Menu](#menu)
-	- [ContextMenu](#contextmenu)
-	- [Charts](#charts)
-	- [Markdown / Editors](#markdown--editors)
-	- [Map](#map)
-	- [Audio / Video](#audio--video)
-	- [SVG](#svg)
-	- [Virtual scroll](#virtual-scroll)
-	- [Infinite scroll](#infinite-scroll)
-	- [Scrollbar](#scrollbar)
-	- [Drag and Drop](#drag--and--drop)
+					- [Overlay](#overlay)
+					- [Lightbox](#lightbox)
+					- [Tooltip](#tooltip)
+					- [Popover](#popover)
+					- [Notification](#notification)
+					- [Table](#table)
+					- [Tree](#tree)
+					- [Loading / Progress Indicators](#loading--progress-indicators)
+					- [Menu](#menu)
+					- [ContextMenu](#contextmenu)
+					- [Charts](#charts)
+					- [Markdown / Editors](#markdown--editors)
+					- [Map](#map)
+					- [Audio / Video](#audio--video)
+					- [SVG](#svg)
+					- [Virtual scroll](#virtual-scroll)
+					- [Infinite scroll](#infinite-scroll)
+					- [Scrollbar](#scrollbar)
+					- [Drag and Drop](#drag-and-drop)
+					- [Counters / Countdown](#counters--countdown)
+- [Utilities](#utilities)
+					- [Pipes](#pipes)
+					- [File upload](#file-upload)
 - [Other Libraries](#other-libraries)
 <br/>
 <br/>
@@ -216,6 +220,9 @@ A curated list of amazingly Angular 2+ components, libraries, resources and shin
 ###### Popover
 - [angular-confirmation-popover](https://github.com/mattlewis92/angular-confirmation-popover) - Displays a bootstrap confirmation popover (with no jQuery or bootstrap JS!).
 - [ngx-popover](https://github.com/pleerock/ngx-popover) - Simple popover control for your angular2 applications using bootstrap3. Does not depend of jquery.
+- [popover](https://github.com/joejordanbrown/popover) - Angular Material Popover
+
+
 
 ###### Notification
 *Toaster / snackbar / alert*
@@ -357,6 +364,7 @@ A curated list of amazingly Angular 2+ components, libraries, resources and shin
 ###### Scrollbar
 - [ngx-perfect-scrollbar](https://github.com/zefoy/ngx-perfect-scrollbar) - Angular wrapper library for the Perfect Scrollbar.
 - [ngx-malihu-scrollbar](https://github.com/jfcere/ngx-malihu-scrollbar) - Angular 2+ scrollbar customization using Malihu jQuery Custom Scrollbar plugin.
+- [ngx-scrollbar](https://github.com/MurhafSousli/ngx-scrollbar) - Custom overlay-scrollbars with native scrolling mechanism for Angular, it also provides a cross-browser smooth scroll directive.
 
 ###### Drag and Drop
 - [ng2-dragula](https://github.com/valor-software/ng2-dragula) - Simple drag and drop with dragula.
@@ -364,5 +372,27 @@ A curated list of amazingly Angular 2+ components, libraries, resources and shin
 - [ng-drag-drop](https://github.com/ObaidUrRehman/ng-drag-drop) - Drag & Drop for Angular - based on HTML5 with no external dependencies.
 - [ngx-sortablejs](https://github.com/SortableJS/ngx-sortablejs) - Angular 2+ binding to SortableJS. Previously known as angular-sortablejs.
 
+###### Counters / Countdown
+- [ngx-countdown](https://github.com/cipchk/ngx-countdown) - Simple, easy and performant countdown for angular.
+
+
+# Utilities
+
+###### Pipes
+- [angular-pipes](https://github.com/fknop/angular-pipes) - Useful pipes for Angular.
+- [ngx-pipes](https://github.com/danrevah/ngx-pipes) - Useful pipes for Angular with no external dependencies!
+- [ng-pipes](https://github.com/a8m/ng-pipes) - Bunch of useful pipes for Angular2 (with no external dependencies!).
+
+###### File upload
+- [ngx-uploader](https://github.com/bleenco/ngx-uploader) - Angular File Uploader. 
+- [ngx-flow](https://github.com/flowjs/ngx-flow) -  flow.js file upload for Angular.
+- [ngx-awesome-uploader](https://github.com/vugar005/ngx-awesome-uploader) - Angular Library for uploading files with many features.
+- [ngx-file-drop](https://github.com/georgipeltekov/ngx-file-drop) - Angular file and folder drop library.
+- [ngx-material-file-input](https://github.com/merlosy/ngx-material-file-input) - File input for Angular Material form-field.
+- [ng2-file-upload](https://github.com/valor-software/ng2-file-upload) - Easy to use Angular components for files upload.
+- [ngx-dropzone-wrapper](https://github.com/zefoy/ngx-dropzone-wrapper) - Angular wrapper library for Dropzone
+
+
 # Other Libraries
 - [ng-google-sheets-db](https://github.com/FranzDiebold/ng-google-sheets-db-library) - :rocket: Use Google Sheets as your (read-only) backend!
+  
