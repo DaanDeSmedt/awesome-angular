@@ -1,4 +1,4 @@
-# Awsome Angular 2+ list
+﻿# Awsome Angular 2+ list
 [<img src="https://raw.githubusercontent.com/DaanDeSmedt/awesome-angular/master/angular.svg?sanitize=true" align="right" width="131" height="143">](https://github.com/DaanDeSmedt/awesome-angular)
 
 A curated list of amazingly Angular 2+ components, libraries, resources and shiny things.
@@ -60,6 +60,7 @@ A curated list of amazingly Angular 2+ components, libraries, resources and shin
 - [Table of Contents](#table-of-contents)
 - [Documentation generators](#documentation-generators)
 - [Boilerplates / Seeds](#boilerplates--seeds)
+- [Material / CDK](#material--cdk)
 - [UI Layout](#ui-layout)
 	- [Structure](#structure)
 	- [Icons](#icons)
@@ -119,6 +120,14 @@ A curated list of amazingly Angular 2+ components, libraries, resources and shin
 - [angular2-boilerplate](https://github.com/voxmachina/angular2-boilerplate) - An Angular 2+ boilerplate on steroids that achieves 100 top score on Google Page Speed.
 - [angular2-seed](https://github.com/angular/angular2-seed) - A simple starter project demonstrating the basic concepts of Angular 2.
 - [@ng-seed/universal](https://github.com/ng-seed/universal) - A seed project for Angular Universal apps following the common patterns and best practices in file and application organization.
+
+<br/>
+<br/>
+
+# Material / CDK
+- [@angular/cdk](https://github.com/angular/components) - Library that helps you author custom UI components with common interaction patterns.
+- [@angular/material](https://github.com/angular/components) - Material Design UI components for Angular applications.
+- [Material Guides](https://material.angular.io/guides) - Angular Material guides
 
 <br/>
 <br/>
@@ -395,4 +404,3 @@ A curated list of amazingly Angular 2+ components, libraries, resources and shin
 
 # Other Libraries
 - [ng-google-sheets-db](https://github.com/FranzDiebold/ng-google-sheets-db-library) - :rocket: Use Google Sheets as your (read-only) backend!
-  
