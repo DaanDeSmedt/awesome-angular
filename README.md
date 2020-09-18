@@ -107,7 +107,7 @@ A curated list of amazingly Angular 2+ components, libraries, resources and shin
 
 # Boilerplates / Seeds
 - [Angular CLI](https://github.com/angular/angular-cli) - CLI tool for Angular.
-- [ngx-rocket](https://github.com/ngx-rocket/starter-kit) - Angular 7+ starter kit for enterprise-grade projects.
+- [ngx-rocket](https://github.com/ngx-rocket/starter-kit) - Angular 9+ starter kit for enterprise-grade projects.
 - [ng2-play](https://github.com/pkozlowski-opensource/ng2-play) - A minimal Angular2 playground using TypeScript and SystemJS loader.
 - [ng2-lab](https://github.com/rolandjitsu/ng2-lab) - Angular Lab.
 - [babel-angular2-app](https://github.com/shuhei/babel-angular2-app) - A super-simple skeleton Angular 2 app built with Babel and Browserify.
