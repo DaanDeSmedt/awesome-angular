@@ -73,6 +73,7 @@ A curated list of amazingly Angular 2+ components, libraries, resources and shin
 	- [Overlay](#overlay)
 	- [Lightbox](#lightbox)
 	- [Tooltip](#tooltip)
+	- [Breadcrumb](#breadcrumb)
 	- [Popover](#popover)
 	- [Notification](#notification)
 	- [Table](#table)
@@ -225,6 +226,9 @@ A curated list of amazingly Angular 2+ components, libraries, resources and shin
 - [ng2-ui-tooltip](https://github.com/ng2-ui/tooltip) - Angular2 Tooltip Directive
 - [ngx-tooltip](https://github.com/pleerock/ngx-tooltip) - Simple tooltip control for your angular2 applications using bootstrap3. Does not depend of jquery.
 - [ngx-popper](https://github.com/MrFrankel/ngx-popper) - An angular wrapper for popper.js, great for tooltips and positioning popping elements
+
+###### Breadcrumb
+- [xng-breadcrumb](https://github.com/udayvunnam/xng-breadcrumb) - A lightweight, configurable and reactive breadcrumbs solution for Angular 2+
 
 ###### Popover
 - [angular-confirmation-popover](https://github.com/mattlewis92/angular-confirmation-popover) - Displays a bootstrap confirmation popover (with no jQuery or bootstrap JS!).
