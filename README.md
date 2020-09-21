@@ -73,6 +73,7 @@ A curated list of amazingly Angular 2+ components, libraries, resources and shin
 	- [Overlay](#overlay)
 	- [Lightbox](#lightbox)
 	- [Tooltip](#tooltip)
+	- [Breadcrumb](#breadcrumb)
 	- [Popover](#popover)
 	- [Notification](#notification)
 	- [Table](#table)
