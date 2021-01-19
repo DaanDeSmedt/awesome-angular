@@ -177,6 +177,7 @@ A curated list of amazingly Angular 2+ components, libraries, resources and shin
 - 💰 [kendo-ui](https://www.telerik.com/kendo-angular-ui) -  Kendo UI for Angular. Professional Grade Angular UI Components.
 - 💰 [syncfusion-angular-ui](https://www.syncfusion.com/angular-ui-components) -  The Complete Angular UI Components Library.
 - 💰 [wijmo-core](https://www.grapecity.com/en/wijmo-core) -  Deliver next-generation HTML5 applications with Wijmo Core, a collection of true JavaScript controls written in TypeScript and built for speed.
+- [Taiga UI](https://taiga-ui.dev/) - Taiga UI is fully-treeshakable Angular UI Kit consisting of multiple base libraries and several add-ons.
  
 ### Mobile
 - [ionic2](https://github.com/driftyco/ionic) - Build amazing native and progressive web apps with Angular and open web technologies. One app running on everything.
