@@ -1,4 +1,4 @@
-# Awsome Angular 2+ list
+﻿# Awsome Angular 2+ list
 [<img src="https://raw.githubusercontent.com/DaanDeSmedt/awesome-angular/master/angular.svg?sanitize=true" align="right" width="131" height="143">](https://github.com/DaanDeSmedt/awesome-angular)
 
 A curated list of amazingly Angular 2+ components, libraries, resources and shiny things.
@@ -60,6 +60,7 @@ A curated list of amazingly Angular 2+ components, libraries, resources and shin
 - [Table of Contents](#table-of-contents)
 - [Documentation generators](#documentation-generators)
 - [Boilerplates / Seeds](#boilerplates--seeds)
+- [Material / CDK](#material--cdk)
 - [UI Layout](#ui-layout)
 	- [Structure](#structure)
 	- [Icons](#icons)
@@ -72,6 +73,7 @@ A curated list of amazingly Angular 2+ components, libraries, resources and shin
 	- [Overlay](#overlay)
 	- [Lightbox](#lightbox)
 	- [Tooltip](#tooltip)
+	- [Breadcrumb](#breadcrumb)
 	- [Popover](#popover)
 	- [Notification](#notification)
 	- [Table](#table)
@@ -107,7 +109,7 @@ A curated list of amazingly Angular 2+ components, libraries, resources and shin
 
 # Boilerplates / Seeds
 - [Angular CLI](https://github.com/angular/angular-cli) - CLI tool for Angular.
-- [ngx-rocket](https://github.com/ngx-rocket/starter-kit) - Angular 7+ starter kit for enterprise-grade projects.
+- [ngx-rocket](https://github.com/ngx-rocket/starter-kit) - Angular 9+ starter kit for enterprise-grade projects.
 - [ng2-play](https://github.com/pkozlowski-opensource/ng2-play) - A minimal Angular2 playground using TypeScript and SystemJS loader.
 - [ng2-lab](https://github.com/rolandjitsu/ng2-lab) - Angular Lab.
 - [babel-angular2-app](https://github.com/shuhei/babel-angular2-app) - A super-simple skeleton Angular 2 app built with Babel and Browserify.
@@ -119,6 +121,14 @@ A curated list of amazingly Angular 2+ components, libraries, resources and shin
 - [angular2-boilerplate](https://github.com/voxmachina/angular2-boilerplate) - An Angular 2+ boilerplate on steroids that achieves 100 top score on Google Page Speed.
 - [angular2-seed](https://github.com/angular/angular2-seed) - A simple starter project demonstrating the basic concepts of Angular 2.
 - [@ng-seed/universal](https://github.com/ng-seed/universal) - A seed project for Angular Universal apps following the common patterns and best practices in file and application organization.
+
+<br/>
+<br/>
+
+# Material / CDK
+- [@angular/cdk](https://github.com/angular/components) - Library that helps you author custom UI components with common interaction patterns.
+- [@angular/material](https://github.com/angular/components) - Material Design UI components for Angular applications.
+- [Material Guides](https://material.angular.io/guides) - Angular Material guides
 
 <br/>
 <br/>
@@ -217,6 +227,9 @@ A curated list of amazingly Angular 2+ components, libraries, resources and shin
 - [ng2-ui-tooltip](https://github.com/ng2-ui/tooltip) - Angular2 Tooltip Directive
 - [ngx-tooltip](https://github.com/pleerock/ngx-tooltip) - Simple tooltip control for your angular2 applications using bootstrap3. Does not depend of jquery.
 - [ngx-popper](https://github.com/MrFrankel/ngx-popper) - An angular wrapper for popper.js, great for tooltips and positioning popping elements
+
+###### Breadcrumb
+- [xng-breadcrumb](https://github.com/udayvunnam/xng-breadcrumb) - A lightweight, configurable and reactive breadcrumbs solution for Angular 2+
 
 ###### Popover
 - [angular-confirmation-popover](https://github.com/mattlewis92/angular-confirmation-popover) - Displays a bootstrap confirmation popover (with no jQuery or bootstrap JS!).
@@ -396,4 +409,4 @@ A curated list of amazingly Angular 2+ components, libraries, resources and shin
 
 # Other Libraries
 - [ng-google-sheets-db](https://github.com/FranzDiebold/ng-google-sheets-db-library) - :rocket: Use Google Sheets as your (read-only) backend!
-  
+- [ngx-flag-picker](https://github.com/iamartyom/ngx-flag-picker) - 😻 Customizable component which containing a dropdown with country flags
