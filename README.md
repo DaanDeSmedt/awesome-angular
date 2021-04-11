@@ -410,3 +410,4 @@ A curated list of amazingly Angular 2+ components, libraries, resources and shin
 # Other Libraries
 - [ng-google-sheets-db](https://github.com/FranzDiebold/ng-google-sheets-db-library) - :rocket: Use Google Sheets as your (read-only) backend!
 - [ngx-flag-picker](https://github.com/iamartyom/ngx-flag-picker) - 😻 Customizable component which containing a dropdown with country flags
+- [ng-lock](https://www.npmjs.com/package/ng-lock) - Angular decorator for lock a function and user interface while a task running.
