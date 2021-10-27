@@ -188,7 +188,8 @@ A curated list of amazingly Angular 2+ components, libraries, resources and shin
 - 💰 [syncfusion-angular-ui](https://www.syncfusion.com/angular-ui-components) -  The Complete Angular UI Components Library.
 - 💰 [wijmo-core](https://www.grapecity.com/en/wijmo-core) -  Deliver next-generation HTML5 applications with Wijmo Core, a collection of true JavaScript controls written in TypeScript and built for speed.
 - [Taiga UI](https://taiga-ui.dev/) - Taiga UI is fully-treeshakable Angular UI Kit consisting of multiple base libraries and several add-ons.
- 
+- [Mosaic UI](https://github.com/positive-js/mosaic) - Mosaic UI Components for Angular.
+
 ### Mobile
 - [ionic2](https://github.com/driftyco/ionic) - Build amazing native and progressive web apps with Angular and open web technologies. One app running on everything.
 - [angular2-onsenui](https://github.com/onsenui/onsenui) - Mobile app development framework and SDK using HTML5 and JavaScript. Create beautiful and performant cross-platform mobile apps. Based on Web Components, and provides bindings for Angular 1, 2, React and Vue.js.
