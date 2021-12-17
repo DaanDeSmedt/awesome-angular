@@ -203,6 +203,7 @@ A curated list of amazingly Angular 2+ components, libraries, resources and shin
 - [cdk-admin](https://github.com/codetok/cdk-admin) - Angular 6 admin panel using angular material & angular flex.
 - [PaperAdmin](https://github.com/mohdrashid/PaperAdmin) - A flat admin dashboard using Angular 2/4.
 - [Reboard](https://github.com/thesquaredev/reboard) - Admin dashboard template based on Angular 4+, Angular Material 2 and ngx-charts.
+- [ng-matero](https://github.com/ng-matero/ng-matero) - Ng-Matero is an Angular admin template made with Material components.
 
 <br/>
 <br/>
