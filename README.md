@@ -92,6 +92,7 @@ A curated list of amazingly Angular 2+ components, libraries, resources and shin
 - [Utilities](#utilities)
 	- [Pipes](#pipes)
 	- [File upload](#file-upload)
+	- [Authentication / authorization](#Authentication--authorization)
 - [Other Libraries](#other-libraries)
 <br/>
 <br/>
@@ -189,7 +190,7 @@ A curated list of amazingly Angular 2+ components, libraries, resources and shin
 - [Mosaic UI](https://github.com/positive-js/mosaic) - Mosaic UI Components for Angular.
 
 ### Mobile
-- [ionic2](https://github.com/driftyco/ionic) - Build amazing native and progressive web apps with Angular and open web technologies. One app running on everything.
+- [ionic-framework](https://github.com/ionic-team/ionic-framework) - A powerful cross-platform UI toolkit for building native-quality iOS, Android, and Progressive Web Apps with HTML, CSS, and JavaScript.
 - [angular2-onsenui](https://github.com/onsenui/onsenui) - Mobile app development framework and SDK using HTML5 and JavaScript. Create beautiful and performant cross-platform mobile apps. Based on Web Components, and provides bindings for Angular 1, 2, React and Vue.js.
 - [ng-zorro-antd-mobile](https://github.com/NG-ZORRO/ng-zorro-antd-mobile) - A configurable Mobile UI components based on Ant Design Mobile and Angular.
 
@@ -405,6 +406,10 @@ A curated list of amazingly Angular 2+ components, libraries, resources and shin
 - [ng2-file-upload](https://github.com/valor-software/ng2-file-upload) - Easy to use Angular components for files upload.
 - [ngx-dropzone-wrapper](https://github.com/zefoy/ngx-dropzone-wrapper) - Angular wrapper library for Dropzone
 
+###### Authentication / Authorization
+- [ngx-auth](https://github.com/serhiisol/ngx-auth) - Angular 7+ Authentication Module.
+- [ngx-auth-firebaseui](https://github.com/AnthonyNahas/ngx-auth-firebaseui) - Angular Material UI component for firebase authentication.
+- [ngx-permissions](https://github.com/AlexKhymenko/ngx-permissions) - Permission and roles based access control.
 
 # Other Libraries
 - [ng-google-sheets-db](https://github.com/FranzDiebold/ng-google-sheets-db-library) - :rocket: Use Google Sheets as your (read-only) backend!
