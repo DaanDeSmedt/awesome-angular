@@ -188,6 +188,7 @@ A curated list of amazingly Angular 2+ components, libraries, resources and shin
 - 💰 [wijmo-core](https://www.grapecity.com/en/wijmo-core) -  Deliver next-generation HTML5 applications with Wijmo Core, a collection of true JavaScript controls written in TypeScript and built for speed.
 - [Taiga UI](https://taiga-ui.dev/) - Taiga UI is fully-treeshakable Angular UI Kit consisting of multiple base libraries and several add-ons.
 - [Mosaic UI](https://github.com/positive-js/mosaic) - Mosaic UI Components for Angular.
+- [Flowbite](https://flowbite.com/docs/getting-started/angular/) - Open-source UI components built with Tailwind CSS with support for Angular.
 
 ### Mobile
 - [ionic-framework](https://github.com/ionic-team/ionic-framework) - A powerful cross-platform UI toolkit for building native-quality iOS, Android, and Progressive Web Apps with HTML, CSS, and JavaScript.
