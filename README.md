@@ -189,6 +189,7 @@ A curated list of amazingly Angular 2+ components, libraries, resources and shin
 - [Taiga UI](https://taiga-ui.dev/) - Taiga UI is fully-treeshakable Angular UI Kit consisting of multiple base libraries and several add-ons.
 - [Mosaic UI](https://github.com/positive-js/mosaic) - Mosaic UI Components for Angular.
 - [Flowbite](https://flowbite.com/docs/getting-started/angular/) - Open-source UI components built with Tailwind CSS with support for Angular.
+- [FlyonUI](https://flyonui.com/docs/framework-integrations/angular/) - Integrate FlyonUI with Angular and Tailwind CSS to create a modern, responsive UI, streamlining your development process efficiently.
 
 ### Mobile
 - [ionic-framework](https://github.com/ionic-team/ionic-framework) - A powerful cross-platform UI toolkit for building native-quality iOS, Android, and Progressive Web Apps with HTML, CSS, and JavaScript.
