@@ -419,3 +419,4 @@ A curated list of amazingly Angular 2+ components, libraries, resources and shin
 - [ng-google-sheets-db](https://github.com/FranzDiebold/ng-google-sheets-db-library) - :rocket: Use Google Sheets as your (read-only) backend!
 - [ngx-flag-picker](https://github.com/iamartyom/ngx-flag-picker) - 😻 Customizable component which containing a dropdown with country flags
 - [ng-lock](https://github.com/nigrosimone/ng-lock) - Angular decorator for locking functions / user interface while task are running
+- [ng-ssr-caching](https://www.npmjs.com/package/ng-ssr-caching) - Cache for server-side rendered pages in Angular SSR.
