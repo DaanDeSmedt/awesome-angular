@@ -335,6 +335,7 @@ A curated list of amazingly Angular 2+ components, libraries, resources and shin
 - [ngx-wig](https://github.com/stevermeister/ngx-wig) - Angular(Angular 5, Angular 6) WYSIWYG HTML Rich Text Editor.
 - [angular2-tinymce](https://github.com/Ledzz/angular2-tinymce) - Angular 2 component for TinyMCE MCE WYSIWYG editor.
 - [angular-simditor](https://github.com/ghostboyzone/angular-simditor) - Angular Editor for Simditor.
+- [Markstream](https://github.com/Simon-He95/markstream-vue) - Streaming Markdown renderer for Angular AI chat UIs, with support for incomplete Markdown, Mermaid, KaTeX, streaming code blocks, SSR, and safe HTML.
 
 ###### Map
 - [angular2-google-maps](https://github.com/SebastianM/angular2-google-maps) - Angular 2+ Google Maps Components.
