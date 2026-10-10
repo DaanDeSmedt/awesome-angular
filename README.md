@@ -336,6 +336,7 @@ A curated list of amazingly Angular 2+ components, libraries, resources and shin
 - [angular2-tinymce](https://github.com/Ledzz/angular2-tinymce) - Angular 2 component for TinyMCE MCE WYSIWYG editor.
 - [angular-simditor](https://github.com/ghostboyzone/angular-simditor) - Angular Editor for Simditor.
 - [Markstream](https://github.com/Simon-He95/markstream-vue) - Streaming Markdown renderer for Angular AI chat UIs, with support for incomplete Markdown, Mermaid, KaTeX, streaming code blocks, SSR, and safe HTML.
+- [@render-policy/angular](https://github.com/shteynu/render-policy/tree/main/packages/angular) - Renders AI-generated Markdown/HTML without `[innerHTML]`: sanitizes into a DOM fragment, loads remote images only from allowed hosts, and blocks unsafe link schemes.
 
 ###### Map
 - [angular2-google-maps](https://github.com/SebastianM/angular2-google-maps) - Angular 2+ Google Maps Components.
@@ -420,3 +421,4 @@ A curated list of amazingly Angular 2+ components, libraries, resources and shin
 - [ngx-flag-picker](https://github.com/iamartyom/ngx-flag-picker) - 😻 Customizable component which containing a dropdown with country flags
 - [ng-lock](https://github.com/nigrosimone/ng-lock) - Angular decorator for locking functions / user interface while task are running
 - [ng-ssr-caching](https://www.npmjs.com/package/ng-ssr-caching) - Cache for server-side rendered pages in Angular SSR.
+- [ngx-json-render](https://github.com/shteynu/ngx-json-render) - Angular renderer for json-render: streams AI-generated JSON specs into real Angular components with signals, plus a ready Angular Material catalog.
