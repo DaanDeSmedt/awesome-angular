@@ -92,7 +92,7 @@ A curated list of amazingly Angular 2+ components, libraries, resources and shin
 - [Utilities](#utilities)
 	- [Pipes](#pipes)
 	- [File upload](#file-upload)
-	- [Authentication / authorization](#Authentication--authorization)
+	- [Authentication / authorization](#authentication--authorization)
 - [Other Libraries](#other-libraries)
 <br/>
 <br/>
@@ -265,7 +265,7 @@ A curated list of amazingly Angular 2+ components, libraries, resources and shin
 - [angular2-datatable](https://github.com/mariuszfoltak/angular2-datatable) - DataTable - Simple table component with sorting and pagination for Angular2.
 - [ng2-easy-table](https://github.com/ssuperczynski/ng2-easy-table) - The easiest Angular2 table.
 - [ng2-handsontable](https://github.com/valor-software/ng2-handsontable) - Angular 2 directive for Handsontable.
-- [ag-grid-angular](https://github.com/ceolter/ag-grid-angular) - Ag-Grid Angular 2 Component.
+- [ag-grid-angular](https://github.com/ag-grid/ag-grid/tree/latest/packages/ag-grid-angular) - Ag-Grid Angular 2 Component.
 - [ng2-smart-table](https://github.com/akveo/ng2-smart-table) - Angular 2 Smart Data Table component.
 - [angular2-datagrid](https://github.com/jmvtrinidad/angular2-datagrid) - Datagrid for angular 2.
 - [NG2TableView](https://github.com/dennis-b/NG2TableView) - ng2 table-view with angular material
