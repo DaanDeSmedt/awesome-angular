@@ -92,7 +92,7 @@ A curated list of amazingly Angular 2+ components, libraries, resources and shin
 - [Utilities](#utilities)
 	- [Pipes](#pipes)
 	- [File upload](#file-upload)
-	- [Authentication / authorization](#Authentication--authorization)
+	- [Authentication / authorization](#authentication--authorization)
 - [Other Libraries](#other-libraries)
 <br/>
 <br/>
@@ -182,7 +182,7 @@ A curated list of amazingly Angular 2+ components, libraries, resources and shin
 - [Angular MetaMagic EXtensions](https://github.com/meta-magic/amexio.github.io) - Acronym for Angular MetaMagic EXtensions for Inputs & Outputs. It is a rich set of Angular 6 (120+) components powered by HTML5 & CSS3 for Responsive Design and with 50+ Material Design Themes, UI Components, Charts, Gauges, Data Point Widgets, Dashboads.
 - [src-zone/material](https://github.com/src-zone/material) - Blox Material makes it possible to create beautiful Angular apps with modular and customizable UI components, designed according to the Material Design Guidelines.
 - [ng-sq-ui](https://github.com/SQ-UI/ng-sq-ui) - Flexible and easily customizable UI-kit for Angular 6+
-- [truly-ui](https://github.com/TemainfoSoftware/truly-ui) - Truly-UI - WebComponents for Desktop Applications.
+- [truly-ui](https://www.npmjs.com/package/truly-ui) - Truly-UI - WebComponents for Desktop Applications.
 - 💰 [kendo-ui](https://www.telerik.com/kendo-angular-ui) -  Kendo UI for Angular. Professional Grade Angular UI Components.
 - 💰 [syncfusion-angular-ui](https://www.syncfusion.com/angular-ui-components) -  The Complete Angular UI Components Library.
 - 💰 [wijmo-core](https://www.grapecity.com/en/wijmo-core) -  Deliver next-generation HTML5 applications with Wijmo Core, a collection of true JavaScript controls written in TypeScript and built for speed.
@@ -254,7 +254,7 @@ A curated list of amazingly Angular 2+ components, libraries, resources and shin
 - [angular2-toaster](https://github.com/stabzs/Angular2-Toaster) - Angular2-toaster is an asynchronous, non-blocking Angular2 Toaster Notification library.
 - [ng2-toasty](https://github.com/akserg/ng2-toasty) - Angular2 Toasty component shows growl-style alerts and messages for your app.
 - [ngx-toastr](https://github.com/scttcper/ngx-toastr) - Angular 2 toastr.
-- [ng2-toastr](https://github.com/PointInside/ng2-toastr) - Bootstrap style toast for modern Angular.
+- [ng2-toastr](https://www.npmjs.com/package/ng2-toastr) - Bootstrap style toast for modern Angular.
 - [ngx-sweetalert2](https://github.com/sweetalert2/ngx-sweetalert2) - Declarative, template-driven SweetAlert2 integration for Angular 4+
 - [ng-alerts](https://github.com/Jaspero/ng-alerts) - An alert library for Angular.
 
@@ -265,7 +265,7 @@ A curated list of amazingly Angular 2+ components, libraries, resources and shin
 - [angular2-datatable](https://github.com/mariuszfoltak/angular2-datatable) - DataTable - Simple table component with sorting and pagination for Angular2.
 - [ng2-easy-table](https://github.com/ssuperczynski/ng2-easy-table) - The easiest Angular2 table.
 - [ng2-handsontable](https://github.com/valor-software/ng2-handsontable) - Angular 2 directive for Handsontable.
-- [ag-grid-angular](https://github.com/ceolter/ag-grid-angular) - Ag-Grid Angular 2 Component.
+- [ag-grid-angular](https://github.com/ag-grid/ag-grid/tree/latest/packages/ag-grid-angular) - Ag-Grid Angular 2 Component.
 - [ng2-smart-table](https://github.com/akveo/ng2-smart-table) - Angular 2 Smart Data Table component.
 - [angular2-datagrid](https://github.com/jmvtrinidad/angular2-datagrid) - Datagrid for angular 2.
 - [NG2TableView](https://github.com/dennis-b/NG2TableView) - ng2 table-view with angular material
@@ -281,9 +281,9 @@ A curated list of amazingly Angular 2+ components, libraries, resources and shin
 ###### Loading / Progress Indicators
 - [ng4-loading-spinner](https://github.com/amitmahida92/ng4-loading-spinner) - Angular 4 custom async loading spinner.
 - [ngx-spinner](https://github.com/Napster2210/ngx-spinner) - A library for loading spinner for Angular 4/5/6. 
-- [angular2-spinner](https://github.com/mvpninjas/angular2-spinner) - Simple loading indicator.
+- [angular2-spinner](https://www.npmjs.com/package/angular2-spinner) - Simple loading indicator.
 - [angular2-busy](https://github.com/devyumao/angular2-busy) - Show busy/loading indicators on any promise, or on any Observable's subscription.
-- [ng-spin-kit](https://github.com/WoltersKluwerPL/ng-spin-kit) - SpinKit ( spinners for Angular 2+.
+- [ng-spin-kit](https://www.npmjs.com/package/ng-spin-kit) - SpinKit ( spinners for Angular 2+.
 - [ng-circle-progress](https://github.com/bootsoon/ng-circle-progress) - A simple circle progress component created for Angular based on SVG Graphics.
 - [ng2-slim-loading-bar](https://github.com/akserg/ng2-slim-loading-bar) - Angular 2 component shows slim loading bar at the top of the page.
 - [angular2-ladda](https://github.com/moff/angular2-ladda) - Angular 2 Ladda module.
@@ -299,7 +299,7 @@ A curated list of amazingly Angular 2+ components, libraries, resources and shin
 ###### Menu
 *Menu / sidebar / drawer*
 - [ng-sidebar](https://github.com/arkon/ng-sidebar) - Angular 2+ sidebar component.
-- [ngx-aside](https://github.com/passenger6/ngx-aside) - Simple angular sidebar panel
+- [ngx-aside](https://www.npmjs.com/package/ngx-aside) - Simple angular sidebar panel
 - [angular-material-sidemenu](https://github.com/xandorxicay/angular-material-sidemenu) - A small component to make sidenav menus using Angular Material.
 - [ng-material-multilevel-menu](https://github.com/ShankyTiwari/ng-material-multilevel-menu) - Material Multi-Level Menu for Angular Projects .
 
@@ -322,7 +322,7 @@ A curated list of amazingly Angular 2+ components, libraries, resources and shin
 *Markdown / Showdown / Editor / WYSIWYG*
 - [ngx-md](https://github.com/dimpu/ngx-md) - Angular(ngx) directive for parsing markdown content in your web application.
 - [ngx-markdown](https://github.com/jfcere/ngx-markdown) - Angular markdown component/directive/pipe/service to parse static, dynamic or remote content to html with syntax highlight.
-- [ng2-markdown](https://github.com/evanplaice/ng2-markdown) - Angular2 Markdown Web Component.
+- [ng2-markdown](https://www.npmjs.com/package/ng2-markdown) - Angular2 Markdown Web Component.
 - [ngx-showdown](https://github.com/yisraelx/ngx-showdown) - Angular X Showdown Module.
 - [ng2-simplemde](https://github.com/doxiaodong/ng2-simplemde) - angular2 component for Simplemde Markdown Editor.
 - [covalent-text-editor](https://github.com/Teradata/covalent-text-editor) - Covalent text and markdown editor component for Angular based on SimpleMDE.
